@@ -96,6 +96,14 @@
     },
     "titles_read": [
       {
+        "asin": "798901BFCFEC4F4C92CB3C90C8C5061B",
+        "read_event_id": "c3387321-4f5a-4fb1-9932-4c7f4d4229eb",
+        "date_read": "2025-12-10T21:28:22-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
         "asin": "ED530C061EE045E5AEA7CFF6D11CCCB7",
         "read_event_id": "eac4d370-d21c-4df7-9c1a-39944c7d0951",
         "date_read": "2025-11-07T00:00:31-08:00",
@@ -214,14 +222,14 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "C",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 21,
+    "daysLeftInCurrentChallenge": 20,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 3,
+    "totalEarnedAchievements": 5,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_Bookish_9917a306-061f-3bb5-9148-e001a4ec3695.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_Trendsetter_b4eaf405-2b34-4f34-b8b0-bee54a0ac60b.png",
         "quantity": 1,
-        "title": "Bookish",
+        "title": "Trendsetter",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       },
