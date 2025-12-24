@@ -63,10 +63,23 @@
     "2025-11-02",
     "2025-11-03",
     "2025-11-10",
-    "2025-11-11"
+    "2025-11-11",
+    "2025-12-11",
+    "2025-12-14",
+    "2025-12-16",
+    "2025-12-17",
+    "2025-12-19",
+    "2025-12-20",
+    "2025-12-22",
+    "2025-12-23"
   ],
   "current_daily_streak": {
-    "duration": 0
+    "duration": 2,
+    "readingMarketplace": 1,
+    "utcEndTime": "2025-12-23T08:00:00.000Z",
+    "start": "2025-12-22T00:00:00.000Z",
+    "end": "2025-12-23T00:00:00.000Z",
+    "ttl": 1766541212
   },
   "longest_daily_streak": {
     "duration": 10,
@@ -76,7 +89,12 @@
     "end": "2025-06-14T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 0
+    "duration": 3,
+    "readingMarketplace": 1,
+    "utcEndTime": "2025-12-23T08:00:00.000Z",
+    "start": "2025-12-11T00:00:00.000Z",
+    "end": "2025-12-23T00:00:00.000Z",
+    "ttl": 1766541212
   },
   "longest_weekly_streak": {
     "duration": 8,
@@ -85,7 +103,7 @@
     "start": "2025-08-28T00:00:00.000Z",
     "end": "2025-10-14T00:00:00.000Z"
   },
-  "current_weekly_streak_state": "inactive",
+  "current_weekly_streak_state": "active",
   "goal_info": {
     "goals": {
       "TITLES_READ_YEAR_2025": {
@@ -95,6 +113,14 @@
       }
     },
     "titles_read": [
+      {
+        "asin": "B4D4F010713E44419395FAC6C6E5ACBB",
+        "read_event_id": "3545054c-f2c9-4ea9-84e0-deef1f097332",
+        "date_read": "2025-12-20T08:23:11-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "798901BFCFEC4F4C92CB3C90C8C5061B",
         "read_event_id": "c3387321-4f5a-4fb1-9932-4c7f4d4229eb",
@@ -222,14 +248,14 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T2",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 9,
+    "daysLeftInCurrentChallenge": 8,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 5,
+    "totalEarnedAchievements": 8,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_Trendsetter_b4eaf405-2b34-4f34-b8b0-bee54a0ac60b.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_WinterVacation_714804ca-78ac-4173-9d6d-26b998193f2d.png",
         "quantity": 1,
-        "title": "Trendsetter",
+        "title": "Winter Vacation",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       },
@@ -248,11 +274,11 @@
         "hasLevel": false
       },
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_Bibliophile_e8c40f32-b610-30b0-8b5f-dcdf49566089.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_PerfectMonth_cf56a3c0-9331-3abf-950e-46d7ac1e8967.png",
         "quantity": 0,
-        "title": "Bibliophile",
+        "title": "Perfect Month",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
+        "hasLevel": true
       }
     ]
   }
