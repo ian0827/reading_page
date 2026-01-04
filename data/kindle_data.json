@@ -90,7 +90,7 @@
     "utcEndTime": "2025-12-26T08:00:00.000Z",
     "start": "2025-12-11T00:00:00.000Z",
     "end": "2025-12-26T00:00:00.000Z",
-    "ttl": 1767405104
+    "ttl": 1767492466
   },
   "longest_weekly_streak": {
     "duration": 8,
@@ -109,6 +109,14 @@
       }
     },
     "titles_read": [
+      {
+        "asin": "C538149FB2514072A1ED82A94910174A",
+        "read_event_id": "14f10ceb-dca3-4d34-a090-a9b5f7f0fda2",
+        "date_read": "2026-01-01T13:04:39-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "B4D4F010713E44419395FAC6C6E5ACBB",
         "read_event_id": "3545054c-f2c9-4ea9-84e0-deef1f097332",
@@ -244,10 +252,17 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T2",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 88,
+    "daysLeftInCurrentChallenge": 87,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 0,
+    "totalEarnedAchievements": 1,
     "achievementsDisplayAttributes": [
+      {
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_Bookish_59a1a25a-c831-32be-9dee-cb84602cba40.png",
+        "quantity": 1,
+        "title": "Bookish",
+        "isUnrevealedMysteryAchievement": false,
+        "hasLevel": false
+      },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_GoldReader_b382f6a0-5c4b-382c-95dd-6b9b05732870.png",
         "quantity": 0,
@@ -259,13 +274,6 @@
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_SilverReader_82641bcd-f5b6-3ac6-8f24-ebd06ca64066.png",
         "quantity": 0,
         "title": "Silver Reader",
-        "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
-      },
-      {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_Bookish_6a55c846-0c52-3449-a1e7-55d7fb6cdef4.png",
-        "quantity": 0,
-        "title": "Bookish",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       },
