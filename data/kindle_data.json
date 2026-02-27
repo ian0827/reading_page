@@ -103,34 +103,43 @@
     "2026-02-18",
     "2026-02-19",
     "2026-02-20",
-    "2026-02-21"
+    "2026-02-21",
+    "2026-02-22",
+    "2026-02-23",
+    "2026-02-24",
+    "2026-02-26"
   ],
   "current_daily_streak": {
-    "duration": 0
+    "duration": 1,
+    "readingMarketplace": 1,
+    "utcEndTime": "2026-02-26T08:00:00.000Z",
+    "start": "2026-02-26T00:00:00.000Z",
+    "end": "2026-02-26T00:00:00.000Z",
+    "ttl": 1772159085
   },
   "longest_daily_streak": {
-    "duration": 12,
+    "duration": 15,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-02-21T08:00:00.000Z",
+    "utcEndTime": "2026-02-24T08:00:00.000Z",
     "start": "2026-02-10T00:00:00.000Z",
-    "end": "2026-02-21T00:00:00.000Z"
+    "end": "2026-02-24T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 7,
+    "duration": 8,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-02-21T08:00:00.000Z",
+    "utcEndTime": "2026-02-26T08:00:00.000Z",
     "start": "2026-01-04T00:00:00.000Z",
-    "end": "2026-02-21T00:00:00.000Z",
-    "ttl": 1772072737
+    "end": "2026-02-26T00:00:00.000Z",
+    "ttl": 1772159085
   },
   "longest_weekly_streak": {
     "duration": 8,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-10-14T07:00:00.000Z",
-    "start": "2025-08-28T00:00:00.000Z",
-    "end": "2025-10-14T00:00:00.000Z"
+    "utcEndTime": "2026-02-26T08:00:00.000Z",
+    "start": "2026-01-04T00:00:00.000Z",
+    "end": "2026-02-26T00:00:00.000Z"
   },
-  "current_weekly_streak_state": "approaching_record_streak",
+  "current_weekly_streak_state": "record_streak_broken",
   "goal_info": {
     "goals": {
       "TITLES_READ_YEAR_2025": {
@@ -140,6 +149,14 @@
       }
     },
     "titles_read": [
+      {
+        "asin": "7C28A6FB7F234A8AA7B8D291BFE7F433",
+        "read_event_id": "45d9044c-d78f-407a-b3d7-0e77c49684e3",
+        "date_read": "2026-02-21T23:43:13-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "C538149FB2514072A1ED82A94910174A",
         "read_event_id": "14f10ceb-dca3-4d34-a090-a9b5f7f0fda2",
@@ -281,18 +298,18 @@
   },
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
-  "kindleHomeStreaksCardRevampTreatment": "T2",
+  "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 34,
+    "daysLeftInCurrentChallenge": 33,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 6,
+    "totalEarnedAchievements": 8,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_PerfectWeek_36274a90-edba-34e4-86b8-da64e8cfa5c6.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_NobleSteed_02047b0f-8c16-44e2-be13-c7ddabc7df5f.png",
         "quantity": 1,
-        "title": "Perfect Week",
+        "title": "Noble Steed",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": true
+        "hasLevel": false
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_GoldReader_b382f6a0-5c4b-382c-95dd-6b9b05732870.png",
