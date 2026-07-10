@@ -156,7 +156,7 @@
     "utcEndTime": "2026-06-30T07:00:00.000Z",
     "start": "2026-05-18T00:00:00.000Z",
     "end": "2026-06-30T00:00:00.000Z",
-    "ttl": 1783568033
+    "ttl": 1783654541
   },
   "longest_weekly_streak": {
     "duration": 8,
@@ -165,7 +165,7 @@
     "start": "2026-01-04T00:00:00.000Z",
     "end": "2026-02-26T00:00:00.000Z"
   },
-  "current_weekly_streak_state": "approaching_record_streak",
+  "current_weekly_streak_state": "at_risk",
   "goal_info": {
     "goals": {
       "TITLES_READ_YEAR_2025": {
@@ -341,7 +341,7 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 84,
+    "daysLeftInCurrentChallenge": 83,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 1,
     "achievementsDisplayAttributes": [
