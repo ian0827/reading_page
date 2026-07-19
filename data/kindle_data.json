@@ -138,10 +138,17 @@
     "2026-06-17",
     "2026-06-18",
     "2026-06-24",
-    "2026-06-30"
+    "2026-06-30",
+    "2026-07-16",
+    "2026-07-18"
   ],
   "current_daily_streak": {
-    "duration": 0
+    "duration": 1,
+    "readingMarketplace": 1,
+    "utcEndTime": "2026-07-18T07:00:00.000Z",
+    "start": "2026-07-18T00:00:00.000Z",
+    "end": "2026-07-18T00:00:00.000Z",
+    "ttl": 1784429803
   },
   "longest_daily_streak": {
     "duration": 15,
@@ -151,7 +158,12 @@
     "end": "2026-02-24T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 0
+    "duration": 1,
+    "readingMarketplace": 1,
+    "utcEndTime": "2026-07-18T07:00:00.000Z",
+    "start": "2026-07-16T00:00:00.000Z",
+    "end": "2026-07-18T00:00:00.000Z",
+    "ttl": 1784429803
   },
   "longest_weekly_streak": {
     "duration": 8,
@@ -160,7 +172,7 @@
     "start": "2026-01-04T00:00:00.000Z",
     "end": "2026-02-26T00:00:00.000Z"
   },
-  "current_weekly_streak_state": "inactive",
+  "current_weekly_streak_state": "active",
   "goal_info": {
     "goals": {
       "TITLES_READ_YEAR_2025": {
@@ -336,16 +348,16 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 75,
+    "daysLeftInCurrentChallenge": 74,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 1,
+    "totalEarnedAchievements": 2,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_Bookish_410baab2-3b9a-36a0-be78-e79abca4e216.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_HeadStart_b8ece1b7-5ffd-34be-b59f-94b55b28286c.png",
         "quantity": 1,
-        "title": "Bookish",
+        "title": "Head Start",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
+        "hasLevel": true
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_GoldReader_f344ca0c-6289-329d-8040-e8a25d58886e.png",
