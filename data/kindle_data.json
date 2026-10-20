@@ -143,10 +143,27 @@
     "2026-07-18",
     "2026-09-09",
     "2026-09-18",
-    "2026-09-20"
+    "2026-09-20",
+    "2026-09-25",
+    "2026-09-26",
+    "2026-09-27",
+    "2026-09-30",
+    "2026-10-01",
+    "2026-10-02",
+    "2026-10-04",
+    "2026-10-05",
+    "2026-10-08",
+    "2026-10-10",
+    "2026-10-18",
+    "2026-10-19"
   ],
   "current_daily_streak": {
-    "duration": 0
+    "duration": 2,
+    "readingMarketplace": 1,
+    "utcEndTime": "2026-10-19T07:00:00.000Z",
+    "start": "2026-10-18T00:00:00.000Z",
+    "end": "2026-10-19T00:00:00.000Z",
+    "ttl": 1792468863
   },
   "longest_daily_streak": {
     "duration": 15,
@@ -156,7 +173,12 @@
     "end": "2026-02-24T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 0
+    "duration": 1,
+    "readingMarketplace": 1,
+    "utcEndTime": "2026-10-19T07:00:00.000Z",
+    "start": "2026-10-18T00:00:00.000Z",
+    "end": "2026-10-19T00:00:00.000Z",
+    "ttl": 1792468863
   },
   "longest_weekly_streak": {
     "duration": 8,
@@ -165,7 +187,7 @@
     "start": "2026-01-04T00:00:00.000Z",
     "end": "2026-02-26T00:00:00.000Z"
   },
-  "current_weekly_streak_state": "inactive",
+  "current_weekly_streak_state": "active",
   "goal_info": {
     "goals": {
       "TITLES_READ_YEAR_2025": {
@@ -346,10 +368,17 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 74,
+    "daysLeftInCurrentChallenge": 73,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 0,
+    "totalEarnedAchievements": 1,
     "achievementsDisplayAttributes": [
+      {
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_HeadStart_cd65787c-fd83-3d0d-9dda-99be74a0da68.png",
+        "quantity": 1,
+        "title": "Head Start",
+        "isUnrevealedMysteryAchievement": false,
+        "hasLevel": true
+      },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_GoldReader_ac8cd0df-960b-3141-8675-e87eac63b93f.png",
         "quantity": 0,
@@ -368,13 +397,6 @@
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_Bookish_4876ad16-8a20-36c5-8942-0e04d94b1361.png",
         "quantity": 0,
         "title": "Bookish",
-        "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
-      },
-      {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_Bibliophile_594da21e-a9a0-3027-8cb1-b02b0a0ee2e6.png",
-        "quantity": 0,
-        "title": "Bibliophile",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       }
