@@ -163,10 +163,16 @@
     "2026-10-24",
     "2026-10-25",
     "2026-10-26",
-    "2026-10-30"
+    "2026-10-30",
+    "2026-11-02"
   ],
   "current_daily_streak": {
-    "duration": 0
+    "duration": 1,
+    "readingMarketplace": 1,
+    "utcEndTime": "2026-11-02T08:00:00.000Z",
+    "start": "2026-11-02T00:00:00.000Z",
+    "end": "2026-11-02T00:00:00.000Z",
+    "ttl": 1793685003
   },
   "longest_daily_streak": {
     "duration": 15,
@@ -176,12 +182,12 @@
     "end": "2026-02-24T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 2,
+    "duration": 3,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-10-30T07:00:00.000Z",
+    "utcEndTime": "2026-11-02T08:00:00.000Z",
     "start": "2026-10-18T00:00:00.000Z",
-    "end": "2026-10-30T00:00:00.000Z",
-    "ttl": 1793595675
+    "end": "2026-11-02T00:00:00.000Z",
+    "ttl": 1793685003
   },
   "longest_weekly_streak": {
     "duration": 8,
@@ -371,16 +377,16 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 60,
+    "daysLeftInCurrentChallenge": 59,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 3,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_FieldNotes_eee5d7e7-3b90-3730-8b22-355bdf82637f.png",
-        "quantity": 1,
-        "title": "Field Notes",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_HeadStart_cd65787c-fd83-3d0d-9dda-99be74a0da68.png",
+        "quantity": 2,
+        "title": "Head Start",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
+        "hasLevel": true
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_GoldReader_ac8cd0df-960b-3141-8675-e87eac63b93f.png",
