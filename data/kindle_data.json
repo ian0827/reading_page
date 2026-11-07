@@ -166,15 +166,16 @@
     "2026-10-30",
     "2026-11-02",
     "2026-11-03",
-    "2026-11-04"
+    "2026-11-04",
+    "2026-11-06"
   ],
   "current_daily_streak": {
-    "duration": 3,
+    "duration": 1,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-11-04T08:00:00.000Z",
-    "start": "2026-11-02T00:00:00.000Z",
-    "end": "2026-11-04T00:00:00.000Z",
-    "ttl": 1793943705
+    "utcEndTime": "2026-11-06T08:00:00.000Z",
+    "start": "2026-11-06T00:00:00.000Z",
+    "end": "2026-11-06T00:00:00.000Z",
+    "ttl": 1794028277
   },
   "longest_daily_streak": {
     "duration": 15,
@@ -186,10 +187,10 @@
   "current_weekly_streak": {
     "duration": 3,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-11-04T08:00:00.000Z",
+    "utcEndTime": "2026-11-06T08:00:00.000Z",
     "start": "2026-10-18T00:00:00.000Z",
-    "end": "2026-11-04T00:00:00.000Z",
-    "ttl": 1793943705
+    "end": "2026-11-06T00:00:00.000Z",
+    "ttl": 1794028277
   },
   "longest_weekly_streak": {
     "duration": 8,
@@ -387,14 +388,14 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 56,
+    "daysLeftInCurrentChallenge": 55,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 5,
+    "totalEarnedAchievements": 6,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_BronzeReader_abcc96d3-fe9e-36d9-8eda-b766f940899e.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_PumpkinPages_92bfdf11-207c-30a2-9817-d3e1337208a7.png",
         "quantity": 1,
-        "title": "Bronze Reader",
+        "title": "Pumpkin Pages",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       },
